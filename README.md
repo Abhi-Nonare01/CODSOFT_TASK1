@@ -32,7 +32,6 @@ src
 
 
 ScreenShots:
-![image alt](https://github.com/Abhi-Nonare01/CODSOFT_TASK1/blob/560ae301ad4b722aa17ad02b9b5314f1abda0388/Screenshot%202026-07-19%20000758.png)
+<img width="1326" height="664" alt="Screenshot 2026-07-19 000758" src="https://github.com/user-attachments/assets/c2dafb53-3a2b-44cf-a0fe-c708f844c133" />
 
-<img width="1338" height="659" alt="image" src="https://github.com/user-attachments/assets/9984d2b1-78a3-4635-a214-327b22557834" />
 
