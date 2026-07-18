@@ -28,3 +28,11 @@ src
 │
 └── utils
        ThemeManager.java         # Singleton Color & Typography State
+
+
+
+ScreenShots:
+<img width="1358" height="696" alt="image" src="https://github.com/user-attachments/assets/f788276b-63cd-461a-b5bf-b7aa05395463" />
+
+<img width="1338" height="659" alt="image" src="https://github.com/user-attachments/assets/9984d2b1-78a3-4635-a214-327b22557834" />
+
